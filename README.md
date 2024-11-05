@@ -5,10 +5,9 @@
  
  (The location coordinates and distance matrix is available in an Excel file.)
  There are two types of vehicle that the supermarket can use:
- Cost per mile Maximum stores it can supply
-           Van    Lorry
-CPM         £1     £2
-Stores      4      16
+ Cost per mile Maximum stores it can supply:
+ Van CPM = £1 , Max Stores = 4     
+ Lorry CPM = £2 , Max Stores = 16
  Given the aim is to minimise the total daily costs, find the best strategy such that
  every store receives its delivery and the warehouses have the correct number of vehicles at
  the end of the day to carry out the deliveries the following day.
